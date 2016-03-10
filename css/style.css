@@ -1,0 +1,15 @@
+header.intro {
+    background: gray;
+}
+
+section#about{
+	background: #ccc;
+}
+
+section#download{
+	background: #ddd;
+}
+
+section#contact{
+	background: #779;
+}
